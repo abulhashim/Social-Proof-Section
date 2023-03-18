@@ -16,7 +16,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [frontendmentor.io/solutions/Social-Proof-Section](https://www.frontendmentor.io/solutions/social-proof-section)
+- Solution URL: [frontendmentor.io/solutions/social-proof-section](https://www.frontendmentor.io/solutions/social-proof-section-7mtxtACWJP)
 - Live Site URL: [abulhashim.github.io/Social-Proof-Section](https://abulhashim.github.io/Social-Proof-Section/)
 
 ## My process
